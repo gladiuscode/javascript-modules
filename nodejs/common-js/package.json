@@ -1,0 +1,7 @@
+{
+  "name": "common-js",
+  "packageManager": "yarn@3.6.4",
+  "scripts": {
+    "start": "node ./src/index.js"
+  }
+}
