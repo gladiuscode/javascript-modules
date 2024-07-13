@@ -1,0 +1,8 @@
+{
+  "name": "esm",
+  "packageManager": "yarn@3.6.4",
+  "type": "module",
+  "scripts": {
+    "start": "node ./src/index.js"
+  }
+}
