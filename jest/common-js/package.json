@@ -1,0 +1,7 @@
+{
+  "name": "common-js",
+  "packageManager": "yarn@3.6.4",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
