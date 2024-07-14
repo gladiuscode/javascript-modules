@@ -1,0 +1,11 @@
+{
+  "name": "common-js",
+  "packageManager": "yarn@3.6.4",
+  "type": "module",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  },
+  "scripts": {
+    "test": "yarn node --experimental-vm-modules $(yarn bin jest)"
+  }
+}
